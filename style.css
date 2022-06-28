@@ -41,13 +41,14 @@ body {
     padding: 12px;
     border-radius: 50%;
     float: right;
-    color: #22ffc0;
+    color: #BF0DAD;
     transition: 0.4s ease;
 }
 
 img {
-    width: 20px;
-    height: 20px;
+    width: 15px;
+    height: 15px;
+    
 }
 
 .search-box:hover > .search-input,
@@ -58,6 +59,6 @@ img {
 
 .search-box:hover > .search-btn,
 .search-input:focus +.search-btn {
-    background: #22ffc0;
+    background: #BF0DAD;
     color: #101010;
 }
